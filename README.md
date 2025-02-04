@@ -1,8 +1,49 @@
-# React + Vite
+# QuickChef
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+QuickShave is a versatile platform for scheduling at-home shaving services. It features distinct panels for admins, users, and chefs, ensuring an intuitive experience for all. Schedule, manage, and enjoy professional grooming with ease
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Details
+
+ - Team Name :- Devfilo
+ - Team Leader name : - Sachin kumar
+-  Team Member Name :- Aditya raj
+
+
+## Tech Stack
+
+**Frontend:** React,TailwindCSS
+
+**Backend:** Javascript
+
+**Server:** Node.js
+
+**Database:** MongoDB , Cloudinary
+
+## Installation
+
+Install Frontend Folder
+
+```bash
+  npm create vite@latest frontend
+  cd frontend
+```
+```bash
+   npm install axios react-router-dom react-toastify
+
+```
+
+```bash
+   npx tailwindcss init -p
+```
+
+```bash
+   npm run dev
+```
+    
+## Features
+
+- Login Page (User/Admin/Chef)
+- Booking Chef
+- Payment implement
+- Cross platform
